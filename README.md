@@ -2,6 +2,9 @@
 
 SecureVault is a defensive cybersecurity project that demonstrates secure file encryption, integrity verification, key management, and security-focused software engineering using Python.
 
+<img width="1986" height="792" alt="Vault" src="https://github.com/user-attachments/assets/88adca0a-d8d3-492f-8d4f-0c830848f8bb" />
+
+
 ## Features
 
 - AES-256-GCM authenticated file encryption
