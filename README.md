@@ -158,6 +158,4 @@ SecureVault/
     └── example_usage.md
 ```
 
-## License
-
-MIT License. See `LICENSE`.
+Updated on 25-09-2026 by Melbin George
